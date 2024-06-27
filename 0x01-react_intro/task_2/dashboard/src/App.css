@@ -16,7 +16,7 @@
 }
 .App-header h1 {
   font-size: 20px;
-  color: #f16575;
+  color: #f1384e;
   font-weight: 900;
 }
 .App-body {
@@ -24,11 +24,21 @@
   border-bottom: 2px solid #e0354b;
   height: 45%;
 }
+
 .App-body p{
   font-size: 11px;
   font-weight: 500;
   color: rgb(82, 77, 77);
   letter-spacing: 1px;
+}
+form {
+  font-size: 11px;
+  color: #0c0c0c;
+}
+
+input{
+  margin-right: 10px;
+  
 }
 .App-footer{
   text-align: center;
