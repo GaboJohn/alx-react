@@ -1,9 +1,8 @@
 .Notifications {
   border: 1px dashed red;
-  padding: 1em;
-  top: 10px;
-  position: absolute;
   width: 95vw;
+  margin: 5px;
+  padding: 5px 10px;
 }
 
 li[data-priority="default"] {
@@ -12,4 +11,11 @@ li[data-priority="default"] {
 
 li[data-priority="urgent"] {
   color: red;
+}
+
+.close-icon {
+  width: 15px;
+  position: relative;
+  right: 20px;
+ 
 }
