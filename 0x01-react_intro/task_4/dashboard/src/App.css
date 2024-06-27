@@ -1,0 +1,55 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100vw;
+  height: 100vh;
+}
+
+.App-header {
+  align-items: center;
+  display: flex;
+  border-bottom: 2px solid;
+  color: #e0354b;
+}
+
+.App-header img {
+  width: 20%;
+  height: 10rem;
+}
+
+.App-header h1 {
+  font-size: 20px;
+  color: #f1384e;
+  font-weight: 900;
+}
+
+.App-body {
+  padding: 1.5em;
+  border-bottom: 2px solid #e0354b;
+  height: 45%;
+}
+
+.App-body p {
+  font-size: 11px;
+  font-weight: 500;
+  color: rgb(82, 77, 77);
+  letter-spacing: 1px;
+}
+
+form {
+  font-size: 11px;
+  color: #0c0c0c;
+}
+
+input {
+  margin-right: 10px;
+
+}
+
+.App-footer {
+  text-align: center;
+}
+
+.App-footer p {
+  font-size: small;
+  font-style: italic;
+}
