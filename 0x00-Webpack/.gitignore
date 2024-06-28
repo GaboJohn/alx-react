@@ -1,3 +1,7 @@
 node_modules/
 package-lock.json
 main.js
+task_3/public/
+assets/
+css/
+js/
