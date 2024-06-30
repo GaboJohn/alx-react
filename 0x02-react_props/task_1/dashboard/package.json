@@ -32,10 +32,10 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.24.7",
-     "@cfaester/enzyme-adapter-react-18": "^0.8.0",
+    "@cfaester/enzyme-adapter-react-18": "^0.8.0",
     "inline-source-map": "0.6.3"
   },
-  "jest": {
+"jest": {
     "setupFiles": [
       "<rootDir>/config/setupTests.js"
     ],
